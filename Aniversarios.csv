@@ -1,5 +1,5 @@
-NOMES,ANO,MES
-Adilson,1964,7
-Jaqueline,1966,2
-Maria,1999,3
-Ana,2004,5
+NOMES,ANO,MES,SIGNO
+Adilson,1964,7,Cancer
+Jaqueline,1966,2,Aquario
+Maria,1999,Aquario
+Ana,2004,5,Peixes
