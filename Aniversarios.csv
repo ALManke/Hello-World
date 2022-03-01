@@ -1,5 +1,5 @@
-NOME;ANO:MES:DIA
-Adilson;1964;02;07
-Jaqueline;1966.05;02
-Maria;1999;04;03
-Anna;2004;05;05
+NOMES,ANO,MES
+Adilson,1964,7
+Jaqueline,1966,2
+Maria,1999,3
+Ana,2004,5
